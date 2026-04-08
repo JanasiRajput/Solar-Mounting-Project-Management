@@ -67,7 +67,7 @@ The front-end user experience revolves around dynamic, live-updating dashboards 
 ## 💻 Data Engineering (Mocking the Data)
 Because this is a bespoke implementation, I wrote a Python script to populate the cloud schema with highly realistic testing data to prove out the relationships and dashboard calculations.
 
-*Check the `data_generation/` folder for the Python script and resulting CSV drops utilized in the initial migration.*
+*Check the `gen_solar_csv.py` file for the Python script and resulting CSV drops utilized in the initial migration.*
 
 ```python
 # Snippet of the data generation script used to mock the Inventory
