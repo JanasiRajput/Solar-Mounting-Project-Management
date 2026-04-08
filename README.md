@@ -60,7 +60,7 @@ The front-end user experience revolves around dynamic, live-updating dashboards 
 -   **Resource Allocation**: Pie charting and graphical trendlines tracking open tasks assigned per field technician.
 
 ![Dashboard Preview](dashboard-placeholder.png) *(Note: Quickbase Dashboard screenshot here)*
-![Dashboard Preview](dashboard2-placeholder.png) *(Note: Quickbase Dashboard screenshot here)*
+![Dashboard Preview](dashboard-placeholder2.png) *(Note: Quickbase Dashboard screenshot here)*
 
 ---
 
