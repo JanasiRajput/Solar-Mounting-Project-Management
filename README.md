@@ -23,7 +23,8 @@ The application is built on a structured relational schema consisting of five in
 *   **Installations**: Field execution logs tied to Projects.
 *   *Project Inventory (Junction Table)*: Manages many-to-many relationship mapping exact inventory quantities depleted for specific Projects.
 
-![Entity Relationship Diagram](erd-placeholder.png) *(Note: Insert ERD screenshot here)*
+![Entity Relationship Diagram](erd-placeholder.png) *(Note: struct screenshot here)*
+![Tables](tables-placeholder.png) *(Note: tables screenshot here)*
 
 ---
 
@@ -46,6 +47,9 @@ To maintain data integrity while allowing field technicians to interact with the
 | **Project Manager** | Strategic | View/Modify/Add/Delete access across Projects, Tasks, and Installations. |
 | **Installer / Field Tech** | Execution | **View-Only** for Projects/Tasks. **Modify** access limited to assigned Installations for updating field statuses. |
 
+![Roles](roles-placeholder.png) *(Note: roles screenshot here)*
+![Users](users-placeholder.png) *(Note: users screenshot here)*
+
 ---
 
 ## 📊 Dashboards & Operational Analytics
@@ -55,7 +59,8 @@ The front-end user experience revolves around dynamic, live-updating dashboards 
 -   **Inventory Depletion Velocity**: Real-time flagged reports showcasing what parts require immediate re-order.
 -   **Resource Allocation**: Pie charting and graphical trendlines tracking open tasks assigned per field technician.
 
-![Dashboard Preview](dashboard-placeholder.png) *(Note: Insert Quickbase Dashboard screenshot here)*
+![Dashboard Preview](dashboard-placeholder.png) *(Note: Quickbase Dashboard screenshot here)*
+![Dashboard Preview](dashboard2-placeholder.png) *(Note: Quickbase Dashboard screenshot here)*
 
 ---
 
