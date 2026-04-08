@@ -23,7 +23,7 @@ The application is built on a structured relational schema consisting of five in
 *   **Installations**: Field execution logs tied to Projects.
 *   *Project Inventory (Junction Table)*: Manages many-to-many relationship mapping exact inventory quantities depleted for specific Projects.
 
-![Entity Relationship Diagram](assets/erd-placeholder.png) *(Note: Insert ERD screenshot here)*
+![Entity Relationship Diagram](erd-placeholder.png) *(Note: Insert ERD screenshot here)*
 
 ---
 
@@ -55,7 +55,7 @@ The front-end user experience revolves around dynamic, live-updating dashboards 
 -   **Inventory Depletion Velocity**: Real-time flagged reports showcasing what parts require immediate re-order.
 -   **Resource Allocation**: Pie charting and graphical trendlines tracking open tasks assigned per field technician.
 
-![Dashboard Preview](assets/dashboard-placeholder.png) *(Note: Insert Quickbase Dashboard screenshot here)*
+![Dashboard Preview](dashboard-placeholder.png) *(Note: Insert Quickbase Dashboard screenshot here)*
 
 ---
 
